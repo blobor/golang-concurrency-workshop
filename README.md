@@ -3,3 +3,5 @@
 Agenda:
 - 01-goroutine-basics
 - 02-channels
+- 03-select
+- 05-race-detector
