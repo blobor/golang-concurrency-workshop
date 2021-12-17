@@ -2,4 +2,4 @@
 
 Agenda:
 - 01-goroutine-basics
-
+- 02-channels
